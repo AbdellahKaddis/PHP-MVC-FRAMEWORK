@@ -1,0 +1,17 @@
+{
+    "name": "abdellah_kaddis/php_mvc_framework",
+    "authors": [
+        {
+            "name": "AbdellahKaddis",
+            "email": "abdellahkaddis8@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
